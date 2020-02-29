@@ -10,6 +10,9 @@ There is no menu yet, so to quit - ALT-F4
 * A - D / <- -> : Move the camera left and right
 * Mouse right click : Move to position.
 * Mouse left click : Attack/interact.
+* Shift : Walk
+* S : Save
+* L : Load
 
 # Maintainer/ Game dev
 
