@@ -12,16 +12,16 @@ There is no menu yet, so to quit - ALT-F4
 * Mouse right click : Move to position.
 * Mouse left click : Attack/interact.
 * Shift : Walk
-* S : Save
-* L : Load
+* F2 : Quick Save
+* F3 : Quick Load
 
 # Roadmap
 
 ## Next version 
 
-* Modify keys schemas
-* Add menu
-* Improve AI
+* Modify keys schemas (Done)
+* Add menu (Done)
+* Improve AI (In progress)
 * Add level interaction
 * improve combat
 
