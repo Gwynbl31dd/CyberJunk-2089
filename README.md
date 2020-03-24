@@ -4,8 +4,6 @@ Unity project Demo
 
 This is a Unity projet in progress, inspidered by Cyber punk, neo tokio, Blader runner and so on.
 
-There is no menu yet, so to quit - ALT-F4
-
 # Keys
 
 * A - D / <- -> : Move the camera left and right
@@ -14,16 +12,17 @@ There is no menu yet, so to quit - ALT-F4
 * Shift : Walk
 * F2 : Quick Save
 * F3 : Quick Load
+* TAB : Open inventory
 
 # Roadmap
 
 ## Next version 
 
-* Modify keys schemas (Done)
-* Add menu (Done)
-* Improve AI (In progress)
-* Add level interaction
 * improve combat
+* Add quest system
+* Add dialog
+* Add new environment
+* Improve performance
 
 # Maintainer/ Game dev
 
